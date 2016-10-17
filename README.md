@@ -2,8 +2,8 @@
 
 This is the working area for the Individual internet-draft, "A WebRTC Data Channel Transport for the Constrained Application Protocol (CoAP)".
 
-* [Editor's copy](https://cngroves.github.io/coap-webrtc/)
-* [Individual Draft] (https://tools.ietf.org/html/draft-groves-coap-webrtcdc-latest)
+* [Editor's copy](https://github.com/cngroves/coap-webrtc/)
+* [Individual Draft] (https://tools.ietf.org/html/draft-groves-coap-webrtcdc)
 
 
 ## Building the Draft
