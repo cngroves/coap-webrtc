@@ -2,7 +2,7 @@
 title: "A WebRTC Data Channel Transport for the Constrained Application Protocol (CoAP)"
 abbrev: CoAP over WebRTC DC
 docname: draft-groves-coap-webrtcdc-latest
-date: 2016-10-17
+date: 2017-04-19
 category: info
 
 ipr: trust200902
@@ -17,8 +17,7 @@ author:
       -
         ins: C. Groves
         name: Christian Groves
-        org: Huawei
-        email: Christian.Groves@nteczone.com
+        email: cngroves.std@gmail.com
       -
         ins: W. Yang
         name: Weiwei Yang
@@ -511,7 +510,11 @@ We would like to thank the authors of {{I-D.ietf-core-coap-tcp-tls}} and {{I-D.s
 
 Changelog
 =========
-Changes from version 00:
+draft-groves-coap-webrtcdc-02:
+
+* Keep alive update. No changes.
+
+draft-groves-coap-webrtcdc-01:
 
 * Updated message format to align with draft-core-coap-tcp-tls-04
 
